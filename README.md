@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chhiring-Tundup
+- 👋 Hi, I’m Chhiring-Tundup
 - 👀 I’m interested in creating things.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to learn more about python. 
